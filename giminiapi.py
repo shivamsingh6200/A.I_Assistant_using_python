@@ -1,1 +1,1 @@
-api=("AIzaSyA9UouPysF2YdDTPbGFrC2KJBranw1TSHQ")
+api=("Write Your api key here")
